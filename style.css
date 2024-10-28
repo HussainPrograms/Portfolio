@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-lightblue {
+    background-color: #6EACDA; /* Replace with your specific light blue color */
+}
+
+h2 {
+    color: #03346E; /* Darker blue for headings */
+}
+
+footer {
+    background-color: #021526; /* Darker background for footer */
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+h5 {
+    color: #0171ea !important;
+}
